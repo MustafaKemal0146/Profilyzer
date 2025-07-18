@@ -2,6 +2,8 @@
 
 **🔗 Siteye buradan ulaşabilirsiniz:** [https://mustafakemalcingil.site/Profilyzer/](https://mustafakemalcingil.site/Profilyzer/)
 
+**📄 Örnek çıktı görmek isterseniz, GitHub profilime bakabilirsiniz:** [https://github.com/MustafaKemal0146](https://github.com/MustafaKemal0146)
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Profilyzer+-+GitHub+README+Generator;Modern+%26+Professional+Profile+Builder;AI-Powered+%26+Customizable" alt="Typing SVG" />
 </div>
