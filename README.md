@@ -1,5 +1,7 @@
 # 🚀 Profilyzer
 
+**🔗 Siteye buradan ulaşabilirsiniz:** [https://mustafakemalcingil.site/Profilyzer/](https://mustafakemalcingil.site/Profilyzer/)
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Profilyzer+-+GitHub+README+Generator;Modern+%26+Professional+Profile+Builder;AI-Powered+%26+Customizable" alt="Typing SVG" />
 </div>
@@ -13,6 +15,18 @@
 [![GitHub Stars](https://img.shields.io/github/stars/MustafaKemal0146/Profilyzer?style=for-the-badge&logo=github)](https://github.com/MustafaKemal0146/Profilyzer/stargazers)
 
 </div>
+
+<p align="center">
+  <img src="https://mustafakemalcingil.site/Profilyzer/image.png" alt="Ana Sayfa" width="600"/>
+  <br/>
+  <em>Ana sayfa görünümü</em>
+  <br/><br/>
+  <img src="https://mustafakemalcingil.site/Profilyzer/ui.png" alt="Profil Tasarlama" width="600"/>
+  <br/>
+  <em>Profil tasarlama arayüzü</em>
+</p>
+
+> **Not:** Bu repoda sitenin kaynak kodu tamamen paylaşılmıştır. Kendi sunucunuzda veya farklı bir ortamda kullanmak için özgürce klonlayabilir ve dağıtabilirsiniz.
 
 ## ✨ Özellikler
 
@@ -99,8 +113,8 @@ Solidity, Ethereum, Web3.js, MetaMask ve daha fazlası
 ### 🎮 Game Dev (8 teknoloji)
 Unity, Unreal Engine, Godot, Blender ve daha fazlası
 
-### �️  Cybersecurity (8 teknoloji)
-Kali Linux, Metasploit, Wireshark, OWASP ve daha fazlası
+### 💻 OS (10 teknoloji)
+Linux, Ubuntu, Windows, macOS, Android ve daha fazlası
 
 ## 🎨 Tema Seçenekleri
 
@@ -150,17 +164,13 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
   
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MustafaKemal0146)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafakemal0146)
+  [![Web Sitesi](https://img.shields.io/badge/Web%20Sitesi-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mustafakemalcingil.site/)
   
 </div>
 
 ## ⭐ Destek
 
 Eğer bu proje işinize yaradıysa, lütfen ⭐ vererek destekleyin!
-
-## 🚀 Demo
-
-[Canlı Demo](https://profilyzer.vercel.app) - Profilyzer'ı hemen deneyin!
-
 ---
 
 <div align="center">
@@ -171,4 +181,5 @@ Eğer bu proje işinize yaradıysa, lütfen ⭐ vererek destekleyin!
   
   **Made with ❤️ by [Mustafa Kemal Çıngıl](https://github.com/MustafaKemal0146)**
   
+
 </div>
